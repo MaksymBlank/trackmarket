@@ -1,0 +1,34 @@
+{
+  "name": "trackmarket",
+  "version": "1.0.0",
+  "description": "Easy & fast way to sell and buy your stuff",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymBlank/trackmarket.git"
+  },
+  "keywords": [
+    "trackmarket",
+    "bootstrap",
+    "angularjs"
+  ],
+  "author": "Maksym Blank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymBlank/trackmarket/issues"
+  },
+  "homepage": "https://github.com/MaksymBlank/trackmarket#readme",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-concat": "^2.6.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "rimraf": "^2.6.2"
+  }
+}
